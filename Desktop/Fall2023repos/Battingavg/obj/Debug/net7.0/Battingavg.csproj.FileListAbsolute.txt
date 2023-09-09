@@ -1,0 +1,4 @@
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\Battingavg\obj\Debug\net7.0\Battingavg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\Battingavg\obj\Debug\net7.0\Battingavg.AssemblyInfoInputs.cache
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\Battingavg\obj\Debug\net7.0\Battingavg.AssemblyInfo.cs
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\Battingavg\obj\Debug\net7.0\Battingavg.csproj.CoreCompileInputs.cache
