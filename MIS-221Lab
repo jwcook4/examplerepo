@@ -1,0 +1,30 @@
+//initilizing variables
+
+int numberofPizzas, totalToppings, pizzaCost, orderTotal;
+string welcomeMessage = "Welcome to Pizza Planet Order Tracker!";
+bool isRewardsMember = true;
+
+
+const double COSTPERPIZZA = 10.0;
+const double COSTPERTOPPING = 0.25;
+const double DRIVERWAGE = 5.27;
+
+
+//Integer manipulation
+
+
+Console.WriteLine("Enter the number of pizzas ordered:"); //give the user context for their input
+numberofPizzas = int.Parse(Console.ReadLine()); // system waits user input
+
+Console.WriteLine("Enter the toal toppings selected"); //give the user context for their input
+totalToppings = int.Parse(Console.ReadLine()); // system waits user input
+
+Console.WriteLine("Enter the tip as a decimal:"); //give the user context for their input
+tip = double.Parse(Console.ReadLine()); // system waits user input
+
+System.Console.WriteLine(pizzaCost = numberofPizzas * COSTPERPIZZA);
+
+System.Console.WriteLine("Total Toppings Cost:" + (totalToppings * COSTPERTOPPING));
+
+System.Console.WritleLine("orderTotal:" + (pizzaCost + Total Toppings Cost));
+
