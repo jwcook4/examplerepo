@@ -1,0 +1,14 @@
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\MIS-LAB2\obj\Debug\net7.0\MIS-LAB2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\MIS-LAB2\obj\Debug\net7.0\MIS-LAB2.AssemblyInfoInputs.cache
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\MIS-LAB2\obj\Debug\net7.0\MIS-LAB2.AssemblyInfo.cs
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\MIS-LAB2\obj\Debug\net7.0\MIS-LAB2.csproj.CoreCompileInputs.cache
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\MIS-LAB2\bin\Debug\net7.0\MIS-LAB2.exe
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\MIS-LAB2\bin\Debug\net7.0\MIS-LAB2.deps.json
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\MIS-LAB2\bin\Debug\net7.0\MIS-LAB2.runtimeconfig.json
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\MIS-LAB2\bin\Debug\net7.0\MIS-LAB2.dll
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\MIS-LAB2\bin\Debug\net7.0\MIS-LAB2.pdb
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\MIS-LAB2\obj\Debug\net7.0\MIS-LAB2.dll
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\MIS-LAB2\obj\Debug\net7.0\refint\MIS-LAB2.dll
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\MIS-LAB2\obj\Debug\net7.0\MIS-LAB2.pdb
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\MIS-LAB2\obj\Debug\net7.0\MIS-LAB2.genruntimeconfig.cache
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\MIS-LAB2\obj\Debug\net7.0\ref\MIS-LAB2.dll
