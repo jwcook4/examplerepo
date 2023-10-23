@@ -1,0 +1,14 @@
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\PA-3\obj\Debug\net7.0\PA-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\PA-3\obj\Debug\net7.0\PA-3.AssemblyInfoInputs.cache
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\PA-3\obj\Debug\net7.0\PA-3.AssemblyInfo.cs
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\PA-3\obj\Debug\net7.0\PA-3.csproj.CoreCompileInputs.cache
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\PA-3\bin\Debug\net7.0\PA-3.exe
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\PA-3\bin\Debug\net7.0\PA-3.deps.json
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\PA-3\bin\Debug\net7.0\PA-3.runtimeconfig.json
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\PA-3\bin\Debug\net7.0\PA-3.dll
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\PA-3\bin\Debug\net7.0\PA-3.pdb
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\PA-3\obj\Debug\net7.0\PA-3.dll
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\PA-3\obj\Debug\net7.0\refint\PA-3.dll
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\PA-3\obj\Debug\net7.0\PA-3.pdb
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\PA-3\obj\Debug\net7.0\PA-3.genruntimeconfig.cache
+C:\Users\John Wesley Cook\Desktop\Fall2023repos\PA-3\obj\Debug\net7.0\ref\PA-3.dll
